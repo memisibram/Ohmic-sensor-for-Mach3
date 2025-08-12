@@ -1,0 +1,430 @@
+{
+  "path": "Offline/Ohm_Sensor",
+  "foldername": "Ohm_Sensor",
+  "name": "Ohm_Sensor",
+  "title": "Ohm_Sensor",
+  "uuid": "484f8836ddb2b410ba71af73badee6aa",
+  "created_at": "2025-03-12 02:25:29",
+  "updated_at": "2025-03-23 23:17:06",
+  "documents": [
+    {
+      "uuid": "d0522e8e21f6977bfc0d3ea014a2c93d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1742759399,
+      "createTime": 1741733391,
+      "histories": [],
+      "created_at": "2025-03-12 00:49:51",
+      "updated_at": "2025-03-23 21:49:59",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100NF",
+          1,
+          "CERAMIC CAPACITOR 100NF",
+          "C1",
+          {
+            "Manufacturer Part": "CT4-0805Y104M500",
+            "Manufacturer": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "47NF",
+          1,
+          "CERAMIC CAPACITOR 100NF",
+          "C2",
+          {
+            "Manufacturer Part": "CT4-0805Y104M500",
+            "Manufacturer": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "undefined"
+          }
+        ],
+        [
+          "Header-Male-2.54_1x2",
+          2,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "H1,H2",
+          {
+            "Manufacturer Part": "826629-2",
+            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C86471"
+          }
+        ],
+        [
+          "Screw_Terminal_01x02_P5mm",
+          2,
+          "TERMINALBLOCK_ONSHORE_1X02_P5.00MM_HORIZONTAL",
+          "J1,J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "M03",
+          1,
+          "SCREWTERMINAL-5MM-3",
+          "JP1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "M025MM",
+          3,
+          "SCREWTERMINAL-5MM-2",
+          "JP3,JP4,JP5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SRD-12VDC-SL-C",
+          1,
+          "RELAY-TH_SRD-XXVDC-XL-C",
+          "K1",
+          {
+            "Manufacturer Part": "SRD-12VDC-SL-C",
+            "Manufacturer": "松乐",
+            "Supplier": "LCSC",
+            "Supplier Part": "C30431"
+          }
+        ],
+        [
+          "RELAY 12V S",
+          1,
+          "RELAY-TH_SLA-12VDC-SL-C",
+          "K2",
+          {
+            "Manufacturer Part": "SLA-12VDC-SL-C",
+            "Manufacturer": "SONGLE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C125736"
+          }
+        ],
+        [
+          "Pwr",
+          1,
+          "LED-TH_BD5.0-P2.54-FD_C9900023552",
+          "LED1",
+          {
+            "Manufacturer Part": "LED_5MM",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023552"
+          }
+        ],
+        [
+          "Out",
+          1,
+          "LED-TH_BD5.0-P2.54-FD_C9900023552",
+          "LED2",
+          {
+            "Manufacturer Part": "LED_5MM",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023552"
+          }
+        ],
+        [
+          "LED_5MM",
+          1,
+          "LED-TH_BD5.0-P2.54-FD_C9900023552",
+          "LED3",
+          {
+            "Manufacturer Part": "LED_5MM",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023552"
+          }
+        ],
+        [
+          "SS8550",
+          1,
+          "TO-92-3_L4.8-W3.7-P2.54-L",
+          "Q1",
+          {
+            "Manufacturer Part": "SS8550CTA",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C327518"
+          }
+        ],
+        [
+          "470Ω",
+          3,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R1,R7,R12",
+          {
+            "Manufacturer Part": "RN 1/4W 300R F T/B A1",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C410638"
+          }
+        ],
+        [
+          "2MΩ",
+          1,
+          "RES-ADJ-TH_3362P",
+          "R2",
+          {
+            "Manufacturer Part": "3362P-1-205LF",
+            "Manufacturer": "BOURNS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124582"
+          }
+        ],
+        [
+          "1MΩ",
+          1,
+          "RES-TH_BD2.2-L6.5-P10.50-D0.6",
+          "R3",
+          {
+            "Manufacturer Part": "CFR0W4J0105A50",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C61306"
+          }
+        ],
+        [
+          "15K",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R4",
+          {
+            "Manufacturer Part": "RN 1/4W 300R F T/B A1",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C410638"
+          }
+        ],
+        [
+          "100K",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R5",
+          {
+            "Manufacturer Part": "RN 1/4W 300R F T/B A1",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C410638"
+          }
+        ],
+        [
+          "470KΩ",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R6",
+          {
+            "Manufacturer Part": "RN 1/4W 300R F T/B A1",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C410638"
+          }
+        ],
+        [
+          "300Ω",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R8",
+          {
+            "Manufacturer Part": "RN 1/4W 300R F T/B A1",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C410638"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R9",
+          {
+            "Manufacturer Part": "RN 1/4W 300R F T/B A1",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C410638"
+          }
+        ],
+        [
+          "2kΩ",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R10",
+          {
+            "Manufacturer Part": "MFR-25FRE52-2K",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1745563"
+          }
+        ],
+        [
+          "1K",
+          1,
+          "RES-TH_BD2.4-L6.3-P10.30-D0.6",
+          "R11",
+          {
+            "Manufacturer Part": "RN 1/4W 300R F T/B A1",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C410638"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "RES-TH_BD2.7-L6.2-P10.20-D0.4",
+          "R13",
+          {
+            "Manufacturer Part": "CR1/4W-10K±5%-ST52",
+            "Manufacturer": "VO(翔胜)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2894649"
+          }
+        ],
+        [
+          "ACP",
+          1,
+          "ACP SPAIN",
+          "RR6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PC817B",
+          1,
+          "DIP-4_L4.6-W6.5-P2.54-LS7.6-BL",
+          "U1",
+          {
+            "Manufacturer Part": "PC817B",
+            "Manufacturer": "华润华晶",
+            "Supplier": "LCSC",
+            "Supplier Part": "C115499"
+          }
+        ],
+        [
+          "LM358N",
+          1,
+          "PDIP-8_L10.2-W5.9-P2.54-LS7.6-BL",
+          "U2",
+          {
+            "Manufacturer Part": "LM358N/NOPB",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C83405"
+          }
+        ],
+        [
+          "H11L2M",
+          1,
+          "DIP-6_L8.5-W6.4-P2.54-LS7.6-BL",
+          "U3",
+          {
+            "Manufacturer Part": "H11L2M",
+            "Manufacturer": "onsemi(安森美)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C258255"
+          }
+        ],
+        [
+          "1N4007",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.6-RD",
+          "U4,U5",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5261026"
+          }
+        ]
+      ],
+      "components": {
+        "5fc2501b92bf4b11b9660b2909c0e885": 1,
+        "6b58067dbee44bae85a5fbd05af56054": 1,
+        "0221799d505b4be0bfb90c25e4242df5": 1,
+        "145f78c9b445478391aa266e1e7bf74e": 9,
+        "fd31cd0d429c408db0db9f9ab8af6a68": 1,
+        "d431f0d7897b4e63a2ebb330a67660dc": 3,
+        "7f034f0164de4ca29b645d52c8283f6b": 2,
+        "38386fcdac5d486692e969564efa0f76": 1,
+        "ee6ef103ed4bbe292b556d36588e703a": 1,
+        "7d69789a49344bf58418b8cc616d0486": 2,
+        "c996990367134df4854174670f257897": 2,
+        "ef96b386488b405c942d91b939b642da": 2,
+        "b9db0f5a7af84954bf7aad11c1f6aa50": 1,
+        "3cf5be481acf45948f6bff674dc1f36d": 3,
+        "af7c47b3291c44daa64b2d4a934150ed": 1,
+        "896de1f1d89942139f04c2f2827f8ed9": 1,
+        "5407a24ad8fd4c22a9e20342d726676c": 1,
+        "086e3645cd80a091b4b6df5d8cc02b2d": 1,
+        "83a34a9984784f9bb26da81c0ac33fe7": 1,
+        "b43aad4fdfbb422e9193072ce77ab56f": 1
+      }
+    },
+    {
+      "uuid": "f73d8fdd86a7b7569865f749cedb9788",
+      "title": "PCB_Ohm_Sensor",
+      "filename": "PCB_Ohm_Sensor.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1742764626,
+      "createTime": 1741732666,
+      "histories": [],
+      "created_at": "2025-03-12 00:37:46",
+      "updated_at": "2025-03-23 23:17:06",
+      "components": {
+        "511a2d9774ee4be6ac3401c4a334cce6": 1,
+        "666264fd42b84465ad050a9517cab8cf": 1,
+        "2915f1f0a54941d7b912decfe617b47f": 10,
+        "02e9a7a961db4476b473a93445dcc24e": 1,
+        "619489e674074de888fe8dd8f6b9799e": 1,
+        "0c48f654beb54ba2b4c3c6ac4827a786": 2,
+        "7ae61b24ec5d431087f34ea7cfebbd9e": 2,
+        "61a55cacd5b14f109a68b11c09571ea3": 1,
+        "46e477ae10884eb48ac80c6915c708bf": 2,
+        "d48d067ae58543cc8ca53c3168957a15": 1,
+        "2b9b6f2a35734a199ff1482393809390": 1,
+        "9f23ebb237be4e8faff11374f6966e8d": 1,
+        "40e3305255ad4a04b83035c540e796e7": 3,
+        "318d2c3124b740ee9ca4dd4423ec5ad1": 1,
+        "3d6b36e0b2bc43fd8c493fd69d258205": 2,
+        "12a9da8c47b341dd8d47e2804d5687e9": 1,
+        "182636cd88484b0e8eca2b5e5ff2507e": 3,
+        "6955cc74c4824d7bb90511fd4bd4e705": 1
+      }
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [],
+  "schfilename": "Ohm_Sensor.json",
+  "schfilemtime": 1742759399738
+}
